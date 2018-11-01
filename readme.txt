@@ -1,3 +1,11 @@
-This is Olivia's git repository.
+1. Add New File to Repository:
 
-This is a private repository.
+	git add "file"
+	git commit -m "message"
+
+2. Check the work status
+
+	git status
+	
+	if <git status> tell there are modification, use:
+	git diff (check the differences)
